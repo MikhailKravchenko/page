@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+# Header 1
+## Header 2
+### Header 3
 
 You can use the [editor on GitHub](https://github.com/MikhailKravchenko/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
