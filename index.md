@@ -131,7 +131,7 @@ Syntax highlighted code block
 •	selenium
 •	cv2
 ```
-## Участие в стартаппе SIB5 https://sib5.tech/
+## Участие в стартаппе [SIB5](https://sib5.tech/)
 
 Автоматическая деперсонализация персональных данных. Он совместим с документами MS Office, форматами PNG, JPEG и PDF.
 
