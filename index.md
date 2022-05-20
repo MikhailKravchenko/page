@@ -49,6 +49,9 @@
 •	os
 •	shelve
 •	unittest
+•	openpyxl
+•	unittest
+
 ```
 ## Бот для чата мемов
 
