@@ -109,8 +109,18 @@
       • Single responsibility выделить новые классы из появившихся методов
       • Скорректировать под паттерны проектирования 
       • Очистка от неиспользуемых методов и функций, удаление "чистого sql" из проекта
-  
+ ```markdown
 •	Docker, Docker compose
 •	nginx
 •	supervisor
+•	Celery
+• RabbitMQ
+• Postgresql
+• Redis
+• REST_framework
+• async
+• Django
+• django-debug-toolbar
+• djoser
 
+```
