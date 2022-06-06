@@ -114,13 +114,13 @@
 •	nginx
 •	supervisor
 •	Celery
-• RabbitMQ
-• Postgresql
-• Redis
-• REST_framework
-• async
-• Django
-• django-debug-toolbar
-• djoser
+•	RabbitMQ
+•	Postgresql
+•	Redis
+•	REST_framework
+•	async
+•	Django
+•	django-debug-toolbar
+•	djoser
 
 ```
