@@ -65,6 +65,7 @@
 Список всех библиотек, используемых за все время в приложении:
 •	shelve
 •	pyTelegramBotAPI 
+• opencv
 •	sqlite3
 •	sys
 •	datetime
@@ -90,6 +91,7 @@
 •	shelve
 •	copy
 •	selenium
+• opencv
 •	cv2
 ```
 ## Участие в стартаппе [SIB5](https://sib5.tech/)
@@ -123,7 +125,7 @@
  ```markdown
 •	Docker, Docker compose
 •	nginx
-•	supervisor
+• opencv
 •	Celery
 •	RabbitMQ
 •	Postgresql
