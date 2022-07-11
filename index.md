@@ -125,7 +125,7 @@
  ```markdown
 •	Docker, Docker compose
 •	nginx
-• opencv
+• opencv 
 •	Celery
 •	RabbitMQ
 •	Postgresql
