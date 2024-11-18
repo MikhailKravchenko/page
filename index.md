@@ -71,7 +71,7 @@
 - **[Startup Wise Guys](https://startupwiseguys.com/)**: Участие в акселерационной программе для стартапов.  
 - **[CyberCrew NFT](https://cybercrewnft.io/)**: Разработка и запуск платформы для работы с NFT.  
 - **[AR Voyage](https://ar.voyage/)**: Работа над 3D веб-приложением.  
-- **[Dotcore](https://dotcore.io/)**: Разработка инфраструктуры для масштабируемых приложений.  
+- **[Dotcore](https://dotcore.io/)**: NFT-маркетплейс на базе сети LRC
 
 ---
 
