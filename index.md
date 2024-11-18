@@ -79,5 +79,5 @@
 
 - **GitHub**: [https://github.com/MikhailKravchenko]  
 - **Email**: [pirog11@ya.ru]  
-- **LinkedIn**: [Ссылка на ваш профиль]  
+- **LinkedIn**: 
 - **Telegram**: [@pirog]  
